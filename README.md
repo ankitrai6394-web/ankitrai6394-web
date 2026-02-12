@@ -24,23 +24,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-rai-04bb8b338/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitrai9452/)
 ---
-
 ### 📈 Leveling Progress
 <table>
   <tr>
     <td width="30%" align="center">
-      <img src="https://github.com/ankitrai6394-web.png" width="150px;" alt="Ankit's Avatar"/><br />
+      <img src="https://github.com/ankitrai6394-web.png" width="150px" alt="Ankit's Avatar"/><br />
       <sub><b>Rank: S-Class</b></sub>
     </td>
-    <td width="70%">
+    <td width="70%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ankitrai6394-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ankit's Stats" />
     </td>
   </tr>
 </table>
-
----
-
-**Total Profile Views:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitrai6394-web.ankitrai6394-web&left_color=gray&right_color=blue&left_text=System%20Logs)
 
 ---
 
