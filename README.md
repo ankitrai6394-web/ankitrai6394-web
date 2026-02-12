@@ -1,16 +1,21 @@
-## Hi there 👋
+# ⚔️  Ankit-Rai
 
-<!--
-**ankitrai6394-web/ankitrai6394-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> `while(alive): day_one > one_day ? print("Life") : wait() 🎯`
 
-Here are some ideas to get you started:
+### 👤 Character Info
+- **Class:** AIML Student (2nd Year)
+- **Primary Skills:** Python, C++, C
+- **Support Skills:** HTML/CSS
+- **Current Quest:** Data Structures Algorithm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Equipment (Tech Stack)
+- **Coding:** Visual Studio Code, PyCharm
+- **Intelligence:** NumPy, Pandas, Scikit-Learn
+- **Base:** Git / GitHub
+
+---
+### 📈 Leveling Progress
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitrai6394&show_icons=true&theme=tokyonight)
+
+---
+**Total Profile Views:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitrai6394-web.ankitrai6394-web)
