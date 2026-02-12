@@ -26,6 +26,8 @@
 ---
 
 ### 📈 Leveling Progress
-![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitrai6394-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
+![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitrai6394-web&show_icons=true&theme=tokyonight&count_private=true)
+
 ---
+
 **Total Profile Views:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitrai6394-web.ankitrai6394-web&left_color=gray&right_color=blue&left_text=System%20Logs)
