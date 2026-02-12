@@ -25,6 +25,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitrai9452/)
 ---
 
+# ⚔️ Status: [<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Leveling+Up+in+AIML...;Data+Structures+Algorithm;Shadow+Monarch+Training">](https://git.io/typing-svg)
+
 ### 📈 Leveling Progress
 ![Ankit's Stats](https://github-readme-stats.vercel.app/api?username=ankitrai6394-web&show_icons=true&theme=tokyonight&count_private=true)
 
