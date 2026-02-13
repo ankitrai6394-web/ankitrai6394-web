@@ -20,10 +20,6 @@
 
 # ⚔️ Status: [<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Leveling+Up+in+AIML...;+Data+Structures+Algorithm">](https://git.io/typing-svg)
 
-### 🌐 Connect with the Shadow Monarch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-rai-04bb8b338/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ankitrai9452/)
----
 ### 📈 Leveling Progress
 <table>
   <tr>
@@ -36,6 +32,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 **Total Profile Views:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitrai6394-web.ankitrai6394-web&left_color=gray&right_color=blue&left_text=System%20Logs)
