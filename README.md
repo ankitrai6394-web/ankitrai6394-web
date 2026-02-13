@@ -10,7 +10,7 @@
 
 ### ⚔️ Active Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,vscode,pycharm,intelliji idea" />
 </p>
 
 ### 🛠️ Equipment (Tech Stack)
