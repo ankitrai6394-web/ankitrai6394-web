@@ -12,6 +12,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,vscode,pycharm,idea" />
 </p>
+
 ### 🛠️ Equipment (Tech Stack)
 - **Coding:** Visual Studio Code, PyCharm
 - **Intelligence:** NumPy, Pandas, Scikit-Learn
