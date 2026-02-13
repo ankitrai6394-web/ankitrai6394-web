@@ -15,7 +15,7 @@
 
 ### 🛠️ Equipment (Tech Stack)
 - **Coding:** Visual Studio Code, PyCharm
-- **Intelligence:** NumPy, Pandas, Scikit-Learn
+- **Intelligence:** NumPy, Pandas,matplotlib
 - **Base:** Git / GitHub
 
 # ⚔️ Status: [<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Leveling+Up+in+AIML...;+Data+Structures+Algorithm">](https://git.io/typing-svg)
