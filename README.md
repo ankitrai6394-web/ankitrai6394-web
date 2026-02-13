@@ -20,5 +20,4 @@
 
 # ⚔️ Status: [<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Leveling+Up+in+AIML...;+Data+Structures+Algorithm">](https://git.io/typing-svg)
 ---
-
 **Total Profile Views:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitrai6394-web.ankitrai6394-web&left_color=gray&right_color=blue&left_text=System%20Logs)
