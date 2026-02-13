@@ -12,27 +12,12 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,git,vscode,pycharm,idea" />
 </p>
-
 ### 🛠️ Equipment (Tech Stack)
 - **Coding:** Visual Studio Code, PyCharm
 - **Intelligence:** NumPy, Pandas, Scikit-Learn
 - **Base:** Git / GitHub
 
 # ⚔️ Status: [<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Leveling+Up+in+AIML...;+Data+Structures+Algorithm">](https://git.io/typing-svg)
-
-### 📈 Leveling Progress
-<table>
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://github.com/ankitrai6394-web.png" width="150px" alt="Ankit's Avatar"/><br />
-      <sub><b>Rank: S-Class</b></sub>
-    </td>
-    <td width="70%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ankitrai6394-web&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ankit's Stats" />
-    </td>
-  </tr>
-</table>
-
 ---
 
 **Total Profile Views:** ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ankitrai6394-web.ankitrai6394-web&left_color=gray&right_color=blue&left_text=System%20Logs)
