@@ -3,7 +3,7 @@
 > `while(alive): day_one > one_day ? print("Life") : wait() 🎯`
 
 ### 👤 Character Info
-- **Class:** AIML Student (2nd Year)
+- **Department:** cCSE(AIML) Student (2nd Year)
 - **Primary Skills:** Python, C++, C
 - **Support Skills:** HTML/CSS
 - **Current Quest:** Data Structures Algorithm
